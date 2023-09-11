@@ -5,7 +5,7 @@ Welcome to a code project that's been crafted with passion and precision by Wass
 
 ## Copyright-Free Coding Wonderland
 
-This code is a gift to the world, devoid of copyright shackles. Feel free to wield it, mold it, and share it with fellow enthusiasts. Let's spread the knowledge far and wide, shall we?
+This Arduino code is a gift to the world, devoid of copyright shackles. Feel free to wield it, mold it, and share it with fellow enthusiasts. Let's spread the knowledge far and wide, shall we?
 
 ## The Robot That's All About Following Lines
 
